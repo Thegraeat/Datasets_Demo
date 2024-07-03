@@ -1,1 +1,3 @@
-将GNSS文件转换为TUM文件格式，方便使用evo绘图
+自用数据处理代码，getData.cpp用于将ros2中bag数据取出后转换为GNSS、IMU以及truth文件类型的数据。
+
+datasEvo.cpp用于将GNSS文件转换为TUM文件格式，方便使用evo绘图
